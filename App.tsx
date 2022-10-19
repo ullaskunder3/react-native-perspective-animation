@@ -52,6 +52,7 @@ const Circle = ({ onPress, animatedValue }: any) => {
         <TouchableOpacity onPress={onPress}>
           <View>
             <Text style={styles.circleBtn}>Roma</Text>
+            <Text>pritam </Text>
           </View>
         </TouchableOpacity>
       </Animated.View>
